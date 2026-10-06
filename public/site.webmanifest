@@ -1,0 +1,24 @@
+{
+  "name": "RitTutor LMS",
+  "short_name": "RitTutor",
+  "description": "AI-Powered Learning Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6d28d9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://hercules-cdn.com/file_1kC9Nn3f3X4Drr44cnNi9Zh1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://hercules-cdn.com/file_1kC9Nn3f3X4Drr44cnNi9Zh1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
